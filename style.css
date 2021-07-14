@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.player-01{
+    width: 270px;
+    padding: 0px 10px 10px;
+    box-shadow: 7px 7px 17px rgb(212, 208, 208);
+    margin-left: 70px;
+}
+img{
+    width: 100%;
+    margin: 10px 40px 20px 0px;
+}
+.name-style{
+font-family: 'Poppins', sans-serif;
+}
+p{
+    color: gray;
+    font-weight: 400;
+}
+.row{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
